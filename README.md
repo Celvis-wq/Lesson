@@ -1,9 +1,9 @@
-# Lesson
+# Lesson Quiz
 # Version: 0.0.1
 
 ## Purpose:
 
-- Just prints strings, it is a class example
+- Every number evenly divisible by 5 prints "Hit". This was for a class quiz.
 <br />
 
 ## FAQ:
@@ -11,7 +11,7 @@
 - This program is part of a class
 
 ### How to use:
-- cd /File
+- cd /Lesson
 - python3 main.py
 
 # Languages used:
