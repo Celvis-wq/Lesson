@@ -1,5 +1,5 @@
-# FTPFinder.lua
-# Version: 0.0.3
+# Lesson
+# Version: 0.0.1
 
 ## Purpose:
 
