@@ -3,7 +3,7 @@
 
 ## Purpose:
 
-- Every number evenly divisible by 5 prints "Hit". This was for a class quiz.
+- Every number evenly divisible by 5 prints "Hit". This was for my cyber class quiz. He just wanted to see us write this and push it to github, simple stuff not like I don't do this already lol.
 <br />
 
 ## FAQ:
